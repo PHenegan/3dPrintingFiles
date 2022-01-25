@@ -8,4 +8,4 @@ A collection of stl files that I made for 3d printing.
 
 # drawer-puller
 
-* adds a little handle to my drawer to make it easier to pull open
+* adds a little handle to my drawer to make it easier to pull open, this one kind of didn't work very well
